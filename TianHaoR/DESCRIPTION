@@ -1,0 +1,10 @@
+Package: TianHaoR
+Type: Package
+Title: The mean value and covariance test methods for multiple normal vectors are provided, and the calculation methods of principal component score and factor score in principal component analysis are provided
+Version: 0.1.0
+Author: TianHao
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: The mean value and covariance test methods for multiple normal vectors are provided, and the calculation methods of principal component score and factor score in principal component analysis are provided
+License: R version 3.6.2 (2019-12-12)
+Encoding: UTF-8
+LazyData: true
